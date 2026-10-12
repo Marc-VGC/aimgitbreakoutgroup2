@@ -1,4 +1,4 @@
-# aimgitbreakoutgroup2
+# aim git breakout group 2
 Practice push, pull, and merge conflict resolution
 
 
