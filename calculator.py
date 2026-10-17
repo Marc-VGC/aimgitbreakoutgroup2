@@ -19,3 +19,9 @@ if __name__ == "__main__":
     print(f"5 - 3 = {subtract(5, 3)}")
 
 def power (a, b): return a**b
+
+git add
+git commmit -m Add divide function"
+git push origin main
+git pull origin main
+
