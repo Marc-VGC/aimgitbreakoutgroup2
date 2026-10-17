@@ -10,6 +10,8 @@ def subtract(a, b):
 def multiply(a, b): return a * b
 def divide(a, b): return a / b if b != 0 else "Error"
 
+def modulus(a, b): 
+    return a % b
 # TODO: Add your assigned function below this line
 
 if __name__ == "__main__":
