@@ -21,7 +21,7 @@ if __name__ == "__main__":
 def power (a, b): return a**b
 
 git add
-git commmit -m Add divide function"
+git commmit -m "Add divide function"
 git push origin main
 git pull origin main
 
