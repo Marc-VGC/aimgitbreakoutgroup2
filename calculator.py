@@ -10,6 +10,8 @@ def subtract(a, b):
 def multiply(a, b): 
 	return a * b
 
+def modulus(a, b): 
+    return a % b
 # TODO: Add your assigned function below this line
 
 
